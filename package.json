@@ -1,6 +1,6 @@
 {
   "name": "pdfpreview-vue",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "vue pdf预览组件",
   "main": "./src/pdf.vue",
   "scripts": {},
