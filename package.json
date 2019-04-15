@@ -1,0 +1,21 @@
+{
+  "name": "pdfpreview-vue",
+  "version": "1.0.0",
+  "description": "vue pdf预览组件",
+  "main": "./src/pdf.vue",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/litarussell/vue-pdfpreview.git"
+  },
+  "keywords": [
+    "vue",
+    "pdf"
+  ],
+  "author": "litarussell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/litarussell/vue-pdfpreview/issues"
+  },
+  "homepage": "https://github.com/litarussell/vue-pdfpreview#readme"
+}
